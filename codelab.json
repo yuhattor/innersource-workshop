@@ -1,0 +1,22 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-12-27T01:18:48Z",
+  "id": "docs",
+  "duration": 30,
+  "title": "InnerSource ワークショップ",
+  "summary": "InnerSource ワークショップ",
+  "source": "workshop.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": null,
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/yuhattor/innersource-workshop",
+  "url": "docs"
+}
